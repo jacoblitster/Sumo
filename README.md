@@ -3,7 +3,7 @@ This is a sumo game implemented using assembly for
 a C8051F020 microprocessor.
 
 
-This program models two sumo wrestlers. These to
+This program models two sumo wrestlers. These two
 sumo wrestlers are shown by two of the LEDS on 
 LED bar graph. Their initial position is 
 determined by the position of three of the 
